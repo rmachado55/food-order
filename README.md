@@ -9,5 +9,6 @@ Consumo de uma API REST que permite operação C.R.U.D. dos pratos e restaurante
 - React +TypeScript;
 - Utilização de Docker;
 - Consumo de uma API Rest com Axios;
+- Estilização: SASS
 
 Desenvolvido em Novembro 2022 acompanhando curso da Alura.
